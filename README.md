@@ -1,4 +1,4 @@
-# Pandas for loading data and visualisation
+# Pandas for data exploration
 
-Just a super simple demonstration of how to load and visualise data with Pandas
+Just a super simple demonstration of data exploration in Pandas
 
