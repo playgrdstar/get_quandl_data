@@ -1,4 +1,4 @@
-# Pandas for data exploration
+# Data from Quandl
 
-Just a super simple demonstration of data exploration in Pandas
+Getting data from Quandl
 
